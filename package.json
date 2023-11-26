@@ -8,5 +8,8 @@
     "apps/*",
     "core/*",
     "libs/*"
-  ]
+  ],
+  "dependencies": {
+    "@yarnpkg/types": "^4.0.0"
+  }
 }
